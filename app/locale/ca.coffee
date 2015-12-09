@@ -35,7 +35,7 @@ module.exports = nativeDescription: "Català", englishDescription: "Catalan", tr
     about: "Sobre Nosaltres"
     contact: "Contacta"
     twitter_follow: "Segueix-nos"
-    teachers: "Profesors"
+    teachers: "Professors"
 #    careers: "Careers"
 
   modal:
