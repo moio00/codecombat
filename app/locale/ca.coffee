@@ -20,7 +20,7 @@ module.exports = nativeDescription: "Català", englishDescription: "Catalan", tr
   nav:
     play: "Nivells" # The top nav bar entry where players choose which levels to play
     community: "Comunitat"
-#    courses: "Courses"
+#    courses: "Escoles"
     editor: "Editor"
     blog: "Blog"
     forum: "Fòrum"
@@ -40,7 +40,7 @@ module.exports = nativeDescription: "Català", englishDescription: "Catalan", tr
 
   modal:
     close: "Tancar"
-    okay: "Okey"
+    okay: "D'acord"
 
   not_found:
     page_not_found: "Pagina no trobada"
@@ -48,7 +48,7 @@ module.exports = nativeDescription: "Català", englishDescription: "Catalan", tr
   diplomat_suggestion:
     title: "Ajuda a traduir CodeCombat!" # This shows up when a player switches to a non-English language using the language selector.
     sub_heading: "Neccesitem les teves habilitats lingüístiques."
-    pitch_body: "Hem desenvolupat CodeCombat en anglès, peró tenim jugadors per tot el món. Molts d'ells volen jugar en Català, però no parlen anglès, per tant si pots parlar ambdós llengües, siusplau considereu iniciar sesió per a ser Diplomàtic i ajudar a traduir la web de CodeCombat i tots els seus nivell en Català."
+    pitch_body: "Hem desenvolupat CodeCombat en anglès, peró tenim jugadors per tot el món. Molts d'ells volen jugar en Català, però no parlen anglès, per tant si pots parlar ambdós llengües, siusplau considereu iniciar sesió per a ser Diplomàtic i ajudar a traduir la web de CodeCombat i tots els seus nivells en Català."
     missing_translations: "Fins que puguem traduir-ho tot en català, ho veuràs en anglès quant no estigui en català."
     learn_more: "Aprèn més sobre ser un diplomàtic"
     subscribe_as_diplomat: "Subscriu-te com a diplomàtic"
@@ -71,7 +71,7 @@ module.exports = nativeDescription: "Català", englishDescription: "Catalan", tr
     achievements: "Triomfs" # Tooltip on achievement list button from /play
     account: "Compte" # Tooltip on account button from /play
     settings: "Configuració" # Tooltip on settings button from /play
-#    poll: "Poll" # Tooltip on poll button from /play
+#    poll: "Enquesta" # Tooltip on poll button from /play
     next: "Següent" # Go from choose hero to choose inventory before playing a level
     change_hero: "Canviar heroi" # Go back from choose inventory to choose hero
     buy_gems: "Comprar Gemes"
